@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Work in progress.
+
+Standby, we'll be righ back after these messages... 🙃
+
 <!--
 **Jay404inEthos/Jay404inEthos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
